@@ -9,7 +9,7 @@ metadata:
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/example-org/artist-website
   tags:
-    - php, java, html
+    - php,
   links:
     - url: https://www.google.com/
       title: Admin Dashboard
