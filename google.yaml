@@ -9,9 +9,9 @@ metadata:
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/example-org/artist-website
   tags:
-    - php,
+    - php
   links:
-    - url: https://www.google.com/
+    - url: https://www.google.com
       title: Admin Dashboard
       icon: dashboard
       type: admin-dashboard
